@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guia Turistico de Lisboa</string>
+    <string name="maat_address">Av. Brasília 1300-598 Lisboa</string>
+    <string name="maat_title">Museu de Arte, Arquitetura e Tecnologia</string>
+    <string name="paco_description">Construido após o terramoto de 1755</string>
+    <string name="paco_street">Rua Augusta</string>
+    <string name="paco_title">Praça do Comércio</string>
+    <string name="padrao_address">Av. Brasilia 1400-038 Lisboa</string>
+    <string name="padrao_description">Inagurado em 1960 para comemorar os Navegadores Portugueses</string>
+    <string name="padrao_title">Padrão Dos Descobrimentos</string>
+    <string name="panteao_address">Campo de Santa Clara, 1100-471 Lisboa</string>
+    <string name="panteao_description">Construído em 1568</string>
+    <string name="panteao_title">Pateão Nacional</string>
+    <string name="maat_description">MAAT Contacto: 21 002 8130</string>
+</resources>

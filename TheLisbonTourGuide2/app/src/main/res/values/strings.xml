@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Lisbon Tour Guide</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="padrao_description">Inaugurated in 1960 to celebrate the Portuguese Navigators</string>
+    <string name="padrao_title">Monument of Discoveries</string>
+    <string name="padrao_address">Brasilia Av. 1400-038 Lisbon</string>
+    <string name="panteao_address">Campo de Santa Clara, 1100-471 Lisbon</string>
+    <string name="panteao_title">National Pantheon</string>
+    <string name="panteao_description">Built in 1568</string>
+    <string name="maat_title">Museum of Art Architecture and Technology</string>
+    <string name="maat_address">Brasília Av. 1300-598 Lisbon</string>
+    <string name="maat_description">MAAT Contact: 21 002 8130</string>
+    <string name="paco_title">Commerce Square</string>
+    <string name="paco_street">Augusta Street</string>
+    <string name="paco_description">Built after the 1755 earthquake</string>
+</resources>
